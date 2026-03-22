@@ -1,0 +1,183 @@
+baseURL = "https://3dprintpipe.com/"
+languageCode = "en-us"
+title = "3D Print Pipe"
+theme = "printwire"
+
+[params]
+tagline       = "Metal and polymer 3D printing for industrial piping, custom fittings, and fluid system components."
+description   = "3D Print Pipe covers additive manufacturing of piping systems — from titanium and Inconel pipe fittings to PEEK fluid components and rapid replacement parts."
+keywords      = "3D print pipe, industrial pipe AM, pipe fitting 3D print, fluid system components, PEEK pipe, titanium pipe fitting"
+logoEmoji     = "⚙️"
+contactEmail  = "maxdavisgroup@gmail.com"
+footerServicesLabel = "Services"
+
+colorPrimary      = "#f97316"
+colorPrimaryDark  = "#ea6c0a"
+colorPrimaryLight = "#fb923c"
+colorBgDark       = "#0a0806"
+colorBgSection    = "#0e0c09"
+colorBgCard       = "#161109"
+colorBgCardHover  = "#1e1810"
+
+fontPrimary   = "Orbitron"
+fontSecondary = "Source+Sans+3"
+
+newsFallbackImages = ["https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=1920&q=80"]
+
+heroEyebrow  = "Industrial Pipe AM"
+heroTitle    = "3D Print <em>Pipe</em>"
+heroSubtitle = "Metal and polymer 3D printing for industrial piping, custom fittings, and fluid system components."
+heroCta1Text = "Explore Services"
+heroCta1URL  = "/services/"
+heroCta2Text = "Get a Quote"
+heroCta2URL  = "/contact/"
+heroImage    = "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=1920&q=80"
+
+overviewTitle   = "Custom Pipe & Fitting Production"
+overviewText    = "Complex geometries, exotic alloys, and rapid replacement of obsolete components — metal AM transforms industrial pipe and fitting manufacture."
+overviewBtnText = "View Services"
+overviewBtnURL  = "/services/"
+
+applicationsTitle = "Industries We Serve"
+servicesTitle    = "3D Print Pipe Services"
+servicesSubtitle = "Metal and polymer 3D printing for industrial piping, custom fittings, and fluid system components."
+clusterTitle = "Related 3D Printing Resources"
+newsletterTitle = "Industry Updates to Your Inbox"
+newsletterText  = "Research breakthroughs and industry news — delivered monthly."
+ctaTitle   = "Start Your Project"
+ctaText    = "Metal and polymer 3D printing for industrial piping, custom fittings, and fluid system components."
+ctaBtnText = "Get in Touch"
+ctaBtnURL  = "/contact/"
+
+[[params.stats]]
+count  = 99
+suffix = "%"
+label  = "Density (DMLS Fittings)"
+
+[[params.stats]]
+count  = 48
+suffix = "hr"
+label  = "Lead Time for Custom Fittings"
+
+[[params.stats]]
+count  = 12
+suffix = "+"
+label  = "Alloys Available"
+
+[[params.stats]]
+count  = 40
+suffix = "%"
+label  = "Weight Reduction vs Machined"
+
+
+[[params.applications]]
+title       = "Oil & Gas Fittings"
+description = "Inconel and 316L fittings for high-pressure, high-temperature applications."
+image       = "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=1920&q=80"
+
+[[params.applications]]
+title       = "Chemical Processing"
+description = "PEEK and titanium components for corrosive fluid systems."
+image       = "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=1920&q=80"
+
+[[params.applications]]
+title       = "Marine & Offshore"
+description = "Custom duplex stainless fittings for saltwater and subsea environments."
+image       = "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=1920&q=80"
+
+[[params.applications]]
+title       = "Rapid Replacement Parts"
+description = "Reverse-engineered obsolete pipe components printed from scan data."
+image       = "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=1920&q=80"
+
+
+[[params.servicesPreview]]
+icon        = "⚙️"
+title       = "Metal Pipe Fittings"
+description = "316L, 17-4PH, Inconel 718 fittings — elbows, tees, reducers, and custom geometries in DMLS."
+
+[[params.servicesPreview]]
+icon        = "🔬"
+title       = "Polymer Fluid Components"
+description = "PEEK, PTFE-loaded nylon, and engineering polymer pipe components for chemical and food-grade applications."
+
+[[params.servicesPreview]]
+icon        = "◎"
+title       = "Manifold & Header Printing"
+description = "Complex flow manifolds and distribution headers with internal channels that cannot be machined."
+
+[[params.servicesPreview]]
+icon        = "🖥️"
+title       = "Reverse Engineering"
+description = "Scan-to-print service for obsolete fittings — CMM scan, 3D model, DMLS production in 5–7 days."
+
+
+[[params.services]]
+name        = "Metal Pipe Fittings"
+description        = "316L, 17-4PH, Inconel 718 fittings — elbows, tees, reducers, and custom geometries in DMLS."
+icon        = "⚙️"
+image        = "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=800&q=80"
+
+[[params.services]]
+name        = "Polymer Fluid Components"
+description        = "PEEK, PTFE-loaded nylon, and engineering polymer pipe components for chemical and food-grade applications."
+icon        = "🔬"
+image        = "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=800&q=80"
+
+[[params.services]]
+name        = "Manifold & Header Printing"
+description        = "Complex flow manifolds and distribution headers with internal channels that cannot be machined."
+icon        = "◎"
+image        = "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=800&q=80"
+
+[[params.services]]
+name        = "Reverse Engineering"
+description        = "Scan-to-print service for obsolete fittings — CMM scan, 3D model, DMLS production in 5–7 days."
+icon        = "🖥️"
+image        = "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=800&q=80"
+
+
+[[params.clusterLinks]]
+name        = "3dprintpipes.com"
+url         = "https://3dprintpipes.com"
+description = "Industrial pipe 3D printing"
+
+[[params.clusterLinks]]
+name        = "dmls3d.com"
+url         = "https://dmls3d.com"
+description = "Metal 3D printing"
+
+[[params.clusterLinks]]
+name        = "sendcutship.com"
+url         = "https://sendcutship.com"
+description = "Custom manufacturing"
+
+[[params.clusterLinks]]
+name        = "3dprintarchitecture.com"
+url         = "https://3dprintarchitecture.com"
+description = "Architecture AM"
+
+[[menu.main]]
+name = "Home"
+url  = "/"
+weight = 1
+[[menu.main]]
+name = "About"
+url  = "/about/"
+weight = 2
+[[menu.main]]
+name = "Articles"
+url  = "/articles/"
+weight = 3
+[[menu.main]]
+name = "Services"
+url  = "/services/"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url  = "/contact/"
+weight = 5
+[[menu.main]]
+name = "Advertise"
+url  = "/advertise/"
+weight = 6
