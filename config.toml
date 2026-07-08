@@ -1,9 +1,17 @@
 baseURL = "https://3dprintpipe.com/"
 languageCode = "en-us"
 title = "3D Print Pipe"
-theme = "printwire"
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [params]
+siteName      = "3D Print Pipe"
 tagline       = "Metal and polymer 3D printing for industrial piping, custom fittings, and fluid system components."
 description   = "3D Print Pipe covers additive manufacturing of piping systems — from titanium and Inconel pipe fittings to PEEK fluid components and rapid replacement parts."
 keywords      = "3D print pipe, industrial pipe AM, pipe fitting 3D print, fluid system components, PEEK pipe, titanium pipe fitting"
