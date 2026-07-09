@@ -11,6 +11,7 @@ title = "3D Print Pipe"
       unsafe = true
 
 [params]
+ogImage       = "/images/05_facade_gradient.png"
 siteName      = "3D Print Pipe"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">PIPE</span>'
 tagline       = "Metal and polymer 3D printing for industrial piping, custom fittings, and fluid system components."
