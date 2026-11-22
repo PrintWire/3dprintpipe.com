@@ -15,7 +15,7 @@ ogImage       = "/images/05_facade_gradient.png"
 siteName      = "3D Print Pipe"
 logoHtml      = '3D&nbsp;PRINT&nbsp;<span class="ed-logo-accent">PIPE</span>'
 tagline       = "Metal and polymer 3D printing for industrial piping, custom fittings, and fluid system components."
-description   = "3D Print Pipe covers additive manufacturing of piping systems — from titanium and Inconel pipe fittings to PEEK fluid components and rapid replacement parts."
+description   = "3D Print Pipe is a PrintWire network site about 3D printed pipes and fittings. PrintWire passes quote requests to specialised manufacturers and returns pricing. PrintWire does not manufacture parts itself."
 keywords      = "3D print pipe, industrial pipe AM, pipe fitting 3D print, fluid system components, PEEK pipe, titanium pipe fitting"
 logoEmoji     = "⚙️"
 contactEmail  = "maxdavisgroup@gmail.com"
